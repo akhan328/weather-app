@@ -6,10 +6,11 @@ Created using this tutorial: https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_
 
 ## Skills Learned
 
-- How to utilize an api within Javascript and HTML
-- How to display information from an api
-- Styling with CSS
+- How to utilize an API within HTML
+- How to display information from an API
+- Styling consistently with CSS
+- Changing styles in CSS using HTMl
 
 ## Reflection
 
-A great beginner project that helped me grasp the basic fundementals of web development using those languages
+A great beginner project that helped me understand the basic fundementals of HTML and CSS. I will use this as a building block to further my understanding of web development and apply this to other projeccts in the future.
